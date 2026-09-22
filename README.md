@@ -48,7 +48,7 @@ Parameters are organized in two pages, switched with the encoder or by pressing 
 - Delay Feedback (`0` = delay off)
 - Autopan Amount
 - Autopan Freq
-- Downsample
+- Downsample (bitcrusher)
 - Looper State (exposed for external mapping)
 - *(unused)*
 - Sample Selector
@@ -62,6 +62,8 @@ Pressing **Capture** switches a looper into sample-player mode: instead of playi
 - **Loop** — reverses the looper's audio (loop or sample)
 - **M** — mutes the looper
 - **X** — clears the looper
+- **Main Rec** - toggles monitoring On
+- **Sample Rec** - looper state (same behavior as Live's Looper big button)
 
 ## Requirements
 
