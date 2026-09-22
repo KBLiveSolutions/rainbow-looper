@@ -1,0 +1,12 @@
+{
+	"name" : "rainbow-looper",
+	"displayname" : "Rainbow Looper",
+	"version" : "1.0.0",
+	"author" : "KB Live Solutions",
+	"authors" : [  ],
+	"description" : "An 8-track quantized multi-looper for Ableton Move, with per-step muting, a 12-sample player, delay, autopan and filter effects.",
+	"tags" : [ "RNBO", "Move", "looper", "sampler" ],
+	"website" : "https://github.com/KBLiveSolutions/rainbow-looper",
+	"extends" : "",
+	"extensible" : 0
+}
