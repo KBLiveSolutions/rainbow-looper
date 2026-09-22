@@ -2,6 +2,8 @@
 
 An 8-track quantized multi-looper for [Ableton Move](https://rnbo.cycling74.com/learn/move-intro-and-setup), built with [RNBO](https://rnbo.cycling74.com/). Each of the 8 tracks is its own looper with per-step muting, a built-in sample player, and a set of performance effects.
 
+![RainbowLooper](https://github.com/KBLiveSolutions/rainbow-looper/blob/main/misc/images/IMG_5573.webp)
+
 ## Installation
 
 This project includes an exported RNBO graph at [`misc/graphs/rainbow-looper-rnbo-1.4.3.rnbopack`](./misc/graphs/rainbow-looper-rnbo-1.4.3.rnbopack). From the RNBO Graph Editor at `move.local:3000/`, you can import this `.rnbopack` directly and start looping right away.
